@@ -6,3 +6,4 @@
   - telegram: [Sergey_Frost](https://t.me/sergey_frost)
   - email: kurbatov.sergs@gmail.com
   - linkedin: https://bit.ly/37JXpVp
+  - personal web page: https://bit.ly/2JmHJNB
